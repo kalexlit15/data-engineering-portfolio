@@ -1,9 +1,8 @@
-# Data Engineering Portfolio
-# 🛠️ Data Engineering Portfolio
+# 🚀 Learning Path: Data Engineering + DataOps
 
 Hi, I'm currently learning Data Engineering from scratch through the [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer) on Coursera.
 
-This repository will contain hands-on projects and notes as I progress from a beginner to a confident Data Engineer with added focus on **DataOps** practices.
+This repository will contain hands-on projects, notes, and examples as I grow from beginner to confident Data Engineer — with an added focus on **DataOps** practices like automation, CI/CD, and monitoring.
 
 ---
 
@@ -14,42 +13,36 @@ This repository will contain hands-on projects and notes as I progress from a be
 **Current Module:** ✅ Introduction to Data Engineering
 
 Planned modules:
-- [x] Introduction to Data Engineering
-- [ ] Python for Data Science
-- [ ] Databases and SQL for Data Science
-- [ ] Relational Databases (RDBMS)
-- [ ] Linux & Shell
-- [ ] ETL Pipelines (Airflow, Kafka)
-- [ ] NoSQL Databases
-- [ ] Data Warehousing
-- [ ] Capstone Project
+
+- [x] Introduction to Data Engineering  
+- [ ] Python for Data Science  
+- [ ] Databases and SQL for Data Science  
+- [ ] Relational Databases (RDBMS)  
+- [ ] Linux & Shell  
+- [ ] ETL Pipelines (Airflow, Kafka)  
+- [ ] NoSQL Databases  
+- [ ] Data Warehouse Fundamentals  
+- [ ] Capstone Project  
 
 ---
 
-## 🧱 Tools & Technologies I'm Learning
+## 💡 What You'll Find Here
 
-- Python
-- SQL
-- Apache Airflow
-- Apache Kafka
-- MongoDB, PostgreSQL
-- Bash / Linux CLI
-- Docker (later for DataOps)
-- Git & GitHub
+- 📁 Step-by-step mini projects
+- 🧪 Experimentation with tools like Airflow, Kafka, Docker
+- ⚙️ DataOps automation and CI/CD samples
+- 📄 Notes and learning materials from the course
 
 ---
 
-## 📂 Planned Projects (coming soon)
+## 🌍 Connect
 
-I'll add real-world projects as I complete each section of the course. Some ideas include:
-- ✅ ETL pipeline with public APIs
-- ✅ SQL analytics on real datasets
-- ✅ NoSQL vs SQL comparison
-- ✅ CI/CD for Data Pipelines (DataOps)
+Feel free to follow my journey or connect on [LinkedIn]( https://www.linkedin.com/in/alex86lk/) if you're also learning Data Engineering!
+
 
 ---
 
-## 🌱 Connect & Follow
+## 🌱 Follow
 
 This is an open learning journey. Feel free to check in, suggest ideas, or collaborate!
 
